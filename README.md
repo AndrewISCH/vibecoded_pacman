@@ -1,6 +1,6 @@
 # Pac-Man Game
 
-A classic Pac-Man game built with HTML5 Canvas, CSS, and JavaScript. This project features an authentic look with a blue maze, yellow Pac-Man, red ghosts, and white dots, all controllable via keyboard inputs. Deployed on GitHub Pages, it’s a lightweight, efficient recreation of the arcade legend.
+A classic Pac-Man game built with HTML5 Canvas, CSS, and JavaScript, with assistance from Grok 3 by xAI. This project features an authentic look with a blue maze, yellow Pac-Man, red ghosts, and white dots, all controllable via keyboard inputs. Deployed on GitHub Pages, it’s a lightweight, efficient recreation of the arcade legend.
 
 ## Description
 
